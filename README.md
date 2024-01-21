@@ -1,2 +1,2 @@
-Cypress auto tests practice
-to run tests: npm run cypress:open
+# Cypress auto tests practice 
+## to run tests: npm run cypress: open
